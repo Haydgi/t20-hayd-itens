@@ -10,12 +10,21 @@ Automação de **melhorias, encantos e materiais especiais** de itens do **Torme
 - **Materiais especiais** destacados visualmente.
 - Automação da **Injeção Alquímica**.
 - Suporte a **homebrews** (melhorias e encantos personalizados).
+- **Editor de Efeitos** (Mestre): personalize os efeitos de qualquer melhoria/encanto do catálogo.
 
 ## Como usar
 
 1. Ative o módulo no mundo.
 2. Abra a ficha de um item físico (arma, armadura, equipamento…).
 3. Vá até a aba **Melhorias & Encantos** e adicione os aprimoramentos desejados — o preço do item é recalculado automaticamente.
+
+## Ferramentas do Mestre
+
+Em *Configurar → Configurações → T20 Hayd — Itens*:
+
+- **Editor de Efeitos** — abre um gerenciador (com busca e filtro) de todas as melhorias, encantos e materiais do catálogo. Cada entrada tem um editor no estilo do sistema: tipo do efeito, custo em PM, se é situacional/por cena, condições e a tabela de mudanças (chave/modo/valor) com autocompletar. As alterações são salvas como *overrides* no mundo (sobrepõem o catálogo padrão), com botão de **restaurar padrão** por entrada.
+- **Gerenciar Homebrews** — crie melhorias, encantos e materiais especiais personalizados, disponíveis em todos os itens.
+- Um interruptor permite **desabilitar a automação exclusiva da Injeção Alquímica**, caso prefira aplicá-la à mão.
 
 ## Requisitos
 
